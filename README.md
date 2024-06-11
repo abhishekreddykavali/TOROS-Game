@@ -15,12 +15,12 @@ TOROS is an Android game developed using Unity-3D, C#, Photoshop, and PicsArt te
 
 ## Technologies/Tools Used
 
-- Unity-3D Engine: Game development engine for creating interactive 3D experiences.
-- C#: Programming language used for scripting gameplay logic and interactions.
-- Visual Studio Code: Integrated development environment (IDE) for writing and editing code.
-- GitLab: Version control system for managing and collaborating on project code.
-- Photoshop: Graphics editing software for creating visual assets and designs.
-- PicsArt: Image editing app for creating and enhancing visual elements.
+- **Unity-3D Engine:** Game development engine for creating interactive 3D experiences.
+- **C#:** Programming language used for scripting gameplay logic and interactions.
+- **Visual Studio Code:** Integrated development environment (IDE) for writing and editing code.
+- **GitLab:** Version control system for managing and collaborating on project code.
+- **Photoshop:** Graphics editing software for creating visual assets and designs.
+- **PicsArt:** Image editing app for creating and enhancing visual elements.
 
 ## Setup Instructions
 
